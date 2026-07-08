@@ -1,6 +1,6 @@
 # Shestoku Impossibility Spectrum — reproduction package
 
-Paper: *The Impossibility Spectrum of Shestoku: The Solvable Set Is Finite*, Yosef A. Harris (2026). Preprint on arXiv (math.CO); see also shestoku.com.
+Paper: *The Impossibility Spectrum of Shestoku: The Solvable Set Is Finite*, Yosef A. Harris (2026). arXiv preprint (math.CO) forthcoming; see also shestoku.com.
 
 This repository accompanies the paper and regenerates every quantitative claim in it.
 
@@ -26,7 +26,7 @@ a few GB.
 
     ./run_all.sh
 
-runs the nine stages below in order and prints `ALL STAGES PASS` on success.
+runs the twelve stages (0-11) below in order and prints `ALL STAGES PASS` on success.
 
 ## The stages
 
